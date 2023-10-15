@@ -1,0 +1,25 @@
+﻿{
+  "name": "Statistic",
+  "columns": [
+    {
+      "name": "id",
+      "type": "guid"
+    },
+    {
+      "name": "StudentId",
+      "type": "guid"
+    },
+    {
+      "name": "BookId",
+      "type": "guid"
+    },
+    {
+      "name": "TakeDateOnly",
+      "type": "DateOnly"
+    },
+    {
+      "name": "ReturnDateOnly",
+      "type": "DateOnly"
+    }
+  ]
+}

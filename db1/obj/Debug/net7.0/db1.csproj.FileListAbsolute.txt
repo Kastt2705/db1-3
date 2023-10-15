@@ -1,0 +1,4 @@
+C:\Users\Zheny\RiderProjects\db1\db1\obj\Debug\net7.0\db1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheny\RiderProjects\db1\db1\obj\Debug\net7.0\db1.AssemblyInfoInputs.cache
+C:\Users\Zheny\RiderProjects\db1\db1\obj\Debug\net7.0\db1.AssemblyInfo.cs
+C:\Users\Zheny\RiderProjects\db1\db1\obj\Debug\net7.0\db1.csproj.CoreCompileInputs.cache

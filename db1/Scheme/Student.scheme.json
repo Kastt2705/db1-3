@@ -1,0 +1,21 @@
+﻿{
+  "name": "Student",
+  "columns": [
+    {
+      "name": "FirstName",
+      "type": "string"
+    },
+    {
+      "name": "SecondName",
+      "type": "string"
+    },
+    {
+      "name": "FatherName",
+      "type": "string"
+    },
+    {
+      "name": "id",
+      "type": "guid"
+    }
+  ]
+}

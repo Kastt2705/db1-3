@@ -1,0 +1,29 @@
+﻿{
+  "name": "Book",
+  "columns": [
+    { 
+      "name": "id", 
+      "type": "guid"
+    },
+    {
+      "name": "Author",
+      "type": "string"
+    },
+    {
+      "name": "Name",
+      "type": "string"
+    },
+    {
+      "name": "PublicationDate",
+      "type": "DateOnly"
+    },
+    {
+      "name": "BookCaseNumber",
+      "type": "uint"
+    },
+    {
+      "name": "ShelfNumber",
+      "type": "uint"
+    }
+  ]
+}
